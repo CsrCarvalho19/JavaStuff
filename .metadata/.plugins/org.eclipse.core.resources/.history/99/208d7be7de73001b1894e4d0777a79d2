@@ -1,18 +1,7 @@
 package fundamentos;
 
-/**
- * This class represents...
- * 
- * @author Cesar Carvalho <cesar.carvalho19@live.com>
- * @since JDK1.0
- * @see
- */
 public class PrimeiroPrograma {
-	
-	/**
-	 * 
-	 * @param args
-	 */
+
 	public static void main(String[] args) {
 		
 		// A code sentence finish with ;

@@ -1,11 +1,9 @@
 package fundamentos;
 
 /**
- * This class represents...
  * 
  * @author Cesar Carvalho <cesar.carvalho19@live.com>
- * @since JDK1.0
- * @see
+ * @since 1.0
  */
 public class PrimeiroPrograma {
 	
