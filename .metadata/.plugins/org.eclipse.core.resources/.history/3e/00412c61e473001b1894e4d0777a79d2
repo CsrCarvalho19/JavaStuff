@@ -1,0 +1,12 @@
+package fundamentos;
+
+public class Temperatura {
+	public static void main(String[] args) {
+		// (F - 32) x 5/9 = C) F/C = variavel -- 32/5:9 = constante
+		double F = 320;
+		final double C = (F-32)*5/9;
+		
+		System.out.println("A temperatura de " +F+ "°F é de " +C+ "°C!");	
+	}
+
+}
